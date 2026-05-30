@@ -87,3 +87,4 @@ jobs:
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не указывать версию
           tags: ilfatbekeev/taski_backend:latest 
+
